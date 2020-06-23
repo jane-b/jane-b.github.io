@@ -1,0 +1,17 @@
+/* giving the body a light gray background to better see the components */
+body {
+  background: lightgray;
+}
+
+h1 {
+  font-weight: bolder;
+  color: teal;
+}
+
+h3 {
+  color: teal;
+}
+
+h5 {
+  color: teal;
+}
